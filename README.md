@@ -25,7 +25,7 @@ The annotation of the dataset is being performed on MakeSense tool in XML format
  
   1. clone this repository
  ```
-	git clone https://github.com/Ashi-Jain/Construction_Site_Risk_Detection
+	git clone https://github.com/kartiknegi23/Construction-Site-Risk-Detection-using-Computer-Vision.git
 ```
  
  1. Install the required dependencies 
